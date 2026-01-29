@@ -2,27 +2,27 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # Runs every 12 hours
+    - cron: "0 */12 * * *" # every 12 hours
   workflow_dispatch:
-
-permissions:
-  contents: write
+  push:
+    branches:
+    - main
 
 jobs:
   generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 5
 
     steps:
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: CristelleMadridLopez23
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=411774,4D247F,534CB9,7282C8,7CAFD7
-          
-          # This shows ALL your contributions (all years)
-          # By default it only shows the last year
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#80b918&color_dots=411774,4D247F,4F308C,5340A9,534CB9,616DC0,7282C8,849BCE,7FA5D3,7CAFD7
 
       - name: Push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
