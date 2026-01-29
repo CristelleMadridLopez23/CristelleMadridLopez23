@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7282c8&height=200&section=header&text=Cristelle%20Madrid%20Lopez&fontSize=70&fontColor=7CAFD7&animation=twinkling&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=411774,4D247F,4F308C,5340A9,534CB9,616DC0,7282C8,849BCE,7FA5D3,7CAFD7&height=200&section=header&text=Cristelle%20Madrid%20Lopez&fontSize=70&fontColor=7CAFD7&animation=twinkling&fontAlignY=35"/>
 
 ### 👩‍💻 Systems & Computer Engineering
 
@@ -70,12 +70,20 @@ const cristelle = {
 
 <div align="center">
 
-![Cristelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&bg_color=411774&title_color=7CAFD7&text_color=849BCE&icon_color=616DC0&border_color=534CB9)
+![Cristelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=CristelleMadridLopez23&show_icons=true&theme=dark&bg_color=411774&title_color=7CAFD7&text_color=849BCE&icon_color=616DC0&border_color=534CB9)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&bg_color=411774&title_color=7CAFD7&text_color=849BCE&border_color=534CB9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristelleMadridLopez23&layout=compact&theme=dark&bg_color=411774&title_color=7CAFD7&text_color=849BCE&border_color=534CB9)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&background=411774&stroke=534CB9&ring=7CAFD7&fire=7FA5D3&currStreakLabel=849BCE&sideLabels=7282C8&currStreakNum=7CAFD7&sideNums=616DC0)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CristelleMadridLopez23&theme=dark&background=411774&stroke=534CB9&ring=7CAFD7&fire=7FA5D3&currStreakLabel=849BCE&sideLabels=7282C8&currStreakNum=7CAFD7&sideNums=616DC0)
 
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/CristelleMadridLopez23/CristelleMadridLopez23/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -101,7 +109,7 @@ Here you'll find projects combining artificial intelligence, web development, an
 
 <br>
 
-⭐️ From [cristellemadrid](https://github.com/YOUR_USERNAME)
+⭐️ From [CristelleMadridLopez23](https://github.com/CristelleMadridLopez23)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=411774,4D247F,4F308C,5340A9,534CB9,616DC0,7282C8,849BCE,7FA5D3,7CAFD7&height=120&section=footer"/>
 
