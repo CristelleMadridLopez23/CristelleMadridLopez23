@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=411774,4D247F,4F308C,5340A9,534CB9,616DC0,7282C8,849BCE,7FA5D3,7CAFD7&height=200&section=header&text=Cristelle%20Madrid%20Lopez&fontSize=70&fontColor=7CAFD7&animation=twinkling&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=534CB9&height=200&section=header&text=Cristelle%20Madrid%20Lopez&fontSize=70&fontColor=7CAFD7&animation=twinkling&fontAlignY=35"/>
 
 ### 👩‍💻 Systems & Computer Engineering
 
@@ -111,6 +111,6 @@ Here you'll find projects combining artificial intelligence, web development, an
 
 ⭐️ From [CristelleMadridLopez23](https://github.com/CristelleMadridLopez23)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=411774,4D247F,4F308C,5340A9,534CB9,616DC0,7282C8,849BCE,7FA5D3,7CAFD7&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=534CB9&height=120&section=footer"/>
 
 </div>
