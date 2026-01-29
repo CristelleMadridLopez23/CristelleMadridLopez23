@@ -5,7 +5,7 @@
 ### 👩‍💻 Systems & Computer Engineering
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7FA5D3&center=true&vCenter=true&multiline=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Machine+Learning+Engineer+%F0%9F%A4%96;Cloud+Architect+%E2%98%81%EF%B8%8F;Database+Specialist+%F0%9F%97%84%EF%B8%8F;Oracle+APEX+Developer+%F0%9F%94%B6" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7FA5D3&center=true&vCenter=true&multiline=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Machine+Learning+Engineer+%F0%9F%A4%96;Database+Specialist+%F0%9F%97%84%EF%B8%8F;Oracle+APEX+Developer+%F0%9F%94%B6" alt="Typing SVG" />
 </p>
 
 <p align="center" style="color: #849BCE;">
