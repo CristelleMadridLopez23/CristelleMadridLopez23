@@ -19,7 +19,7 @@ jobs:
         with:
           github_user_name: CristelleMadridLopez23
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=411774,4D247F,534CB9,7282C8,7CAFD7&color_snake=7CAFD7&color_dots=411774,4D247F,534CB9,7282C8,7CAFD7
+            dist/github-contribution-grid-snake-dark.svg?palette=411774,4D247F,534CB9,7282C8,7CAFD7
           
           # This shows ALL your contributions (all years)
           # By default it only shows the last year
