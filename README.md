@@ -1,21 +1,21 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=240046,763FA3,C77DFF,E0AAFF,F7A9A8&height=200&section=header&text=Cristelle%20Madrid%20Lopez&fontSize=70&fontColor=F7A9A8&animation=twinkling&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7282c8&height=200&section=header&text=Cristelle%20Madrid%20Lopez&fontSize=70&fontColor=7CAFD7&animation=twinkling&fontAlignY=35"/>
 
 ### 👩‍💻 Systems & Computer Engineering
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1B3B6F&center=true&vCenter=true&multiline=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Machine+Learning+Engineer+%F0%9F%A4%96;Cloud+Architect+%E2%98%81%EF%B8%8F;Database+Specialist+%F0%9F%97%84%EF%B8%8F;Oracle+APEX+Developer+%F0%9F%94%B6" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7FA5D3&center=true&vCenter=true&multiline=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Machine+Learning+Engineer+%F0%9F%A4%96;Cloud+Architect+%E2%98%81%EF%B8%8F;Database+Specialist+%F0%9F%97%84%EF%B8%8F;Oracle+APEX+Developer+%F0%9F%94%B6" alt="Typing SVG" />
 </p>
 
-<p align="center" style="color: #C77DFF;">
+<p align="center" style="color: #849BCE;">
   <em>"Transforming ideas into code, data into knowledge, and challenges into opportunities"</em>
 </p>
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1B3B6F?style=for-the-badge&logo=linkedin&logoColor=F7A9A8)](YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-240046?style=for-the-badge&logo=gmail&logoColor=F7A9A8)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-534CB9?style=for-the-badge&logo=linkedin&logoColor=7CAFD7)](YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-4F308C?style=for-the-badge&logo=gmail&logoColor=7CAFD7)](mailto:YOUR_EMAIL)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,6,12,16,20&height=2&section=header"/>
 
@@ -38,31 +38,31 @@ const cristelle = {
 ## 🛠️ Tech Stack
 
 ### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-240046?style=for-the-badge&logo=html5&logoColor=F7A9A8)
-![CSS3](https://img.shields.io/badge/CSS3-201E5B?style=for-the-badge&logo=css3&logoColor=E0AAFF)
-![JavaScript](https://img.shields.io/badge/JavaScript-763FA3?style=for-the-badge&logo=javascript&logoColor=F7A9A8)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-C77DFF?style=for-the-badge&logo=tailwind-css&logoColor=240046)
+![HTML5](https://img.shields.io/badge/HTML5-411774?style=for-the-badge&logo=html5&logoColor=7CAFD7)
+![CSS3](https://img.shields.io/badge/CSS3-4D247F?style=for-the-badge&logo=css3&logoColor=849BCE)
+![JavaScript](https://img.shields.io/badge/JavaScript-5340A9?style=for-the-badge&logo=javascript&logoColor=7FA5D3)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-616DC0?style=for-the-badge&logo=tailwind-css&logoColor=7CAFD7)
 
 ### Backend
-![Python](https://img.shields.io/badge/Python-1B3B6F?style=for-the-badge&logo=python&logoColor=E0AAFF)
-![Django](https://img.shields.io/badge/Django-240046?style=for-the-badge&logo=django&logoColor=F7A9A8)
-![Flask](https://img.shields.io/badge/Flask-763FA3?style=for-the-badge&logo=flask&logoColor=F7A9A8)
+![Python](https://img.shields.io/badge/Python-534CB9?style=for-the-badge&logo=python&logoColor=849BCE)
+![Django](https://img.shields.io/badge/Django-4F308C?style=for-the-badge&logo=django&logoColor=7FA5D3)
+![Flask](https://img.shields.io/badge/Flask-4D247F?style=for-the-badge&logo=flask&logoColor=7CAFD7)
 
 ### Database & Cloud
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-D96E7D?style=for-the-badge&logo=postgresql&logoColor=240046)
-![ORM](https://img.shields.io/badge/ORM-E88C93?style=for-the-badge&logo=python&logoColor=240046)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-7282C8?style=for-the-badge&logo=postgresql&logoColor=411774)
+![ORM](https://img.shields.io/badge/ORM-849BCE?style=for-the-badge&logo=python&logoColor=411774)
 
 ### Oracle Ecosystem
-![Oracle APEX](https://img.shields.io/badge/Oracle_APEX-201E5B?style=for-the-badge&logo=oracle&logoColor=C77DFF)
-![OCI](https://img.shields.io/badge/Oracle_Cloud-1B3B6F?style=for-the-badge&logo=oracle&logoColor=E0AAFF)
+![Oracle APEX](https://img.shields.io/badge/Oracle_APEX-5340A9?style=for-the-badge&logo=oracle&logoColor=7CAFD7)
+![OCI](https://img.shields.io/badge/Oracle_Cloud-534CB9?style=for-the-badge&logo=oracle&logoColor=849BCE)
 
 ### AI & Machine Learning
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-C77DFF?style=for-the-badge&logo=tensorflow&logoColor=240046)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-E0AAFF?style=for-the-badge&logo=pytorch&logoColor=240046)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-7FA5D3?style=for-the-badge&logo=tensorflow&logoColor=411774)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-7CAFD7?style=for-the-badge&logo=pytorch&logoColor=4D247F)
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-240046?style=for-the-badge&logo=git&logoColor=F7A9A8)
-![GitHub](https://img.shields.io/badge/GitHub-763FA3?style=for-the-badge&logo=github&logoColor=F7A9A8)
+![Git](https://img.shields.io/badge/Git-411774?style=for-the-badge&logo=git&logoColor=7CAFD7)
+![GitHub](https://img.shields.io/badge/GitHub-4F308C?style=for-the-badge&logo=github&logoColor=849BCE)
 
 ---
 
@@ -70,11 +70,11 @@ const cristelle = {
 
 <div align="center">
 
-![Cristelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&bg_color=240046&title_color=E0AAFF&text_color=F7A9A8&icon_color=C77DFF&border_color=763FA3)
+![Cristelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&bg_color=411774&title_color=7CAFD7&text_color=849BCE&icon_color=616DC0&border_color=534CB9)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&bg_color=240046&title_color=E0AAFF&text_color=F7A9A8&border_color=763FA3)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&bg_color=411774&title_color=7CAFD7&text_color=849BCE&border_color=534CB9)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&background=240046&stroke=763FA3&ring=E0AAFF&fire=D96E7D&currStreakLabel=F7A9A8&sideLabels=E88C93&currStreakNum=C77DFF&sideNums=E0AAFF)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&background=411774&stroke=534CB9&ring=7CAFD7&fire=7FA5D3&currStreakLabel=849BCE&sideLabels=7282C8&currStreakNum=7CAFD7&sideNums=616DC0)
 
 </div>
 
@@ -103,6 +103,6 @@ Here you'll find projects combining artificial intelligence, web development, an
 
 ⭐️ From [cristellemadrid](https://github.com/YOUR_USERNAME)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=240046,763FA3,C77DFF,E0AAFF,F7A9A8&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=411774,4D247F,4F308C,5340A9,534CB9,616DC0,7282C8,849BCE,7FA5D3,7CAFD7&height=120&section=footer"/>
 
 </div>
