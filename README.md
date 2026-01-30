@@ -74,7 +74,7 @@ const cristelle = {
 
 <div align="center">
 
-![Metrics](https://raw.githubusercontent.com/IrvinngB/IrvinngB/main/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/CristelleMadridLopez23/CristelleMadridLopez23/main/github-metrics.svg)
 
 </div>
 
