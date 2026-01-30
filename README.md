@@ -70,11 +70,11 @@ const cristelle = {
 
 <div align="center">
 
-![Cristelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=CristelleMadridLopez23&show_icons=true&theme=dark&bg_color=411774&title_color=7CAFD7&text_color=849BCE&icon_color=616DC0&border_color=534CB9)
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="25" height="25" /> GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristelleMadridLopez23&layout=compact&theme=dark&bg_color=411774&title_color=7CAFD7&text_color=849BCE&border_color=534CB9)
+<div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CristelleMadridLopez23&theme=dark&background=411774&stroke=534CB9&ring=7CAFD7&fire=7FA5D3&currStreakLabel=849BCE&sideLabels=7282C8&currStreakNum=7CAFD7&sideNums=616DC0)
+![Metrics](https://raw.githubusercontent.com/IrvinngB/IrvinngB/main/github-metrics.svg)
 
 </div>
 
