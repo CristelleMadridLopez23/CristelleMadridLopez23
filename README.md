@@ -14,8 +14,8 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-534CB9?style=for-the-badge&logo=linkedin&logoColor=7CAFD7)](YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-4F308C?style=for-the-badge&logo=gmail&logoColor=7CAFD7)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-534CB9?style=for-the-badge&logo=linkedin&logoColor=7CAFD7)](https://www.linkedin.com/in/cristelle-madrid-lopez-90462a314/)
+[![Email](https://img.shields.io/badge/Email-4F308C?style=for-the-badge&logo=gmail&logoColor=7CAFD7)](mailto:cristellemadrid04@gmail.com)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,6,12,16,20&height=2&section=header"/>
 
